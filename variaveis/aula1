@@ -1,0 +1,6 @@
+float: casa decimais
+double: muitas casas decimais
+char: declarar caracter
+boolean: true false
+
+resto = %
